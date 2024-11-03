@@ -1,0 +1,4 @@
+step-1: Create VENV in VS code
+Step-2: download library using command (pip install pynput)
+step-3: import library 
+step-4: execute the file
